@@ -11,6 +11,8 @@ body {
     /* background: linear-gradient(15deg, rgb(187, 238, 241), rgb(63, 247, 253)); */
     /* background: linear-gradient(#a3c9e2, #9619f7); */
     background: linear-gradient(15deg, #0c7bb3, #f2bae8);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 .page-head {
